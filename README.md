@@ -69,6 +69,7 @@ Java.perform(function() {
 ```
 
 ---
+<img width="815" height="267" alt="image" src="https://github.com/user-attachments/assets/7face03b-bf28-4d08-9399-aa696d67010d" />
 
 ## Conclusion
 
